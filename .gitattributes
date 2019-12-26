@@ -1,2 +1,65 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Code Like a Girl - Madrid 2019</title>
+    <link type="text/css" rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body>
+    <h1>VAMOS A HACER UNA PÁGINA WEB</h1>
+    <h2 class="subtitulo">Are you Ready?</h2>
+    <hr>
+    <p>Hola, me llamo Paula :)</p>
+    <img src="img/minions.jpg"width="50%">
+    <br>
+    <a href="https:\\www.google.com">enlace a google</a>
+    <div>
+         <ul><h2>Canciones</h2>
+            <li>Contando lunares<a href="https://www.youtube.com/watch?v=IWELYcYYhWc" target="_blank">Ver</a></li>
+            <li>Yo x ti tu x mi<a href="https://www.youtube.com/watch?v=2j3x0VYnehg" target="_blank">Ver</a></li>
+            <li>Memories<a href="https://www.youtube.com/watch?v=SlPhMPnQ58k" target="_blank">Ver</a></li>
+            <li>Si por mi fuera<a href="https://www.youtube.com/watch?v=1ZhsWvvw9p4" target="_blank">Ver</a></li>
+        </ul>
+    </div>
+    <div>
+        <ul><h2>Flores</h2>
+            <li>Petunias</li>
+            <li>Rosas</li>
+            <li>Campanillas</li>
+        </ul>
+    </div>
+    <div>
+            <iframe src="https://www.youtube.com/embed/0VR3dfZf9Yg autoplay=1&mute=1"></iframe>
+    </div>
+    <div class="containes">
+        <div class="row">
+            <div class="col-md-2">White diamond
+                    Yo te dediqué una de Romeo
+                    Pa' ver si empezamos la aventura
+                    Sé que tú sufres de deseo
+                    Haciéndolo todo eso se cura
+                    Si a la calle yo salgo y te veo con tu tumba'o
+                    No quiero ser exagerado (exagerado)</div>
+            <div class="col-md-8">Pero me tienes alocá'
+                    Intentando, pero no consigo
+                    Dime, papi, si te viene' conmigo
+                    Decídete, cáele a mi cama, mi cama
+                    Pero me tienes aloca'o
+                    Intentando, pero no consigo(¡duro!)
+                    Dime, baby, si te viene' conmigo (¡qué!)
+                    Dale, nena, cáele a mi cama, mi cama</div>
+            <div class="col-md-2">Desde el primer día tú querías hacérmelo (o oh)
+                    Y hace tiempo que sé que tú estás intentándolo (o oh)
+                    Te tengo en espera por si luego me arrepiento (puh, hmm)
+                    Sé que en el amor tu especialidad es hacer daño (pra, pra)
+                    Desde el primer día tú querías hacérmelo(o-oh)</div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</body>
+</html> 
