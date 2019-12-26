@@ -1,14 +1,17 @@
 var time= new Date();
 var color;
 var myElement;
-if(time == 12) {
-    color = "rojo";
+if(time.getHours() == 12) {
+    color = "red";
 }
-else if(time == 15) {
-    color = "amarillo";
+else if(time.getHours() == 15) {
+    color = "yellow";
 }
 else{
-    color = "verde";
+    color = "green";
 }
 var myElement = document.getElementById("timeColor");
 myElement.innerHTML = color;
+
+var username = prompt("¿Cómo te llamas?");
+document.getElementById("username").innerHTML = username 
